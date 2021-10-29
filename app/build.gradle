@@ -7,7 +7,7 @@ android {
         // applicationId "eu.h2020.helios_social.heliossummerapp"
         minSdkVersion 26
         targetSdkVersion 30
-        versionCode 38
+        versionCode 39
         versionName "1.2.14"
         buildConfigField "long", "TIMESTAMP", System.currentTimeMillis() + "L"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
